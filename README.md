@@ -1,2 +1,2 @@
 # Coding-Style
-开发规范内容
+Implement GoogleStyle，user only myself。
