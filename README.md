@@ -1,6 +1,6 @@
-# Coding-Style
+# coding-style
 
-## Java CodeStyle
+## java codestyle
 Implement GoogleStyle
 
     * eclipse-java-google-style.xml from https://github.com/google/styleguide/blob/gh-pages/eclipse-java-google-style.xml
